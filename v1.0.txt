@@ -1,0 +1,3 @@
+第一次提交是基于JDK原生序列化以及动态代理的远程调用；
+
+JDK原生序列化的实现方式就是通过ObjectInputStream和ObjectOutputStream实现的，将对象转换成流的形式进行传输。
